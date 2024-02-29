@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SQ20.Net_Wee7-8_Task.props" />
+</Project>

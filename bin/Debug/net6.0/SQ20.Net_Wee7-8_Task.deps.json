@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SQ20.Net_Wee7-8_Task/1.0.0": {
+        "runtime": {
+          "SQ20.Net_Wee7-8_Task.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SQ20.Net_Wee7-8_Task/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -18,7 +18,21 @@ namespace SQ20.Net_Wee7_8_Task.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Contact()
+        {
+            return View();
+        }
+        public IActionResult About()
+        {
+            return View();
+        }
+
+        public IActionResult Portfolio()
+        {
+            return View();
+        }
+
+        public IActionResult Services()
         {
             return View();
         }

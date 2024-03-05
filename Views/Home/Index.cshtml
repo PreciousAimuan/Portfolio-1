@@ -2,7 +2,295 @@
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome To Week 7 and 8</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+
+<section class="hero" id="home">
+    <div class="main-content">
+        <h4>Hi, There !</h4>
+        <h1>I'm <span>Precious Aimuan</span></h1>
+        <p>
+            I am passionate about pushing the boundaries of technology and delivering solutions that seamlessly blend hardware and software for optimal performance. Explore my portfolio to witness the synergy of my skills in embedded systems and web application development.
+        </p>
+
+        <div class="social">
+            <a href="#"><i class='bx bxl-facebook'></i></a>
+            <a href="#"><i class='bx bxl-instagram'></i></a>
+            <a href="#"><i class='bx bxl-twitter'></i></a>
+            <a href="#"><i class='bx bxl-youtube'></i></a>
+        </div>
+
+
+        <div class="main-btn">
+            <a href="#" class="btn">Hire me</a>
+            <a href="#" class="btn btn2">Download CV</a>
+        </div>
+    </div>
+
+    <img src="/images/him.jpeg" class="bg-img" alt="">
+</section>
+
+@* <-----About-----------> *@
+<div id="about">
+    <div class="container">
+        <div class="row">
+            <div class="about-col-1">
+                <img src="/images/him.jpeg" alt="users">
+            </div>
+            <div class="about-col-2">
+                <h2 class="sub-title">About Me<span class="color">.</span></h2>
+                <p>
+                    I am a versatile Embedded Systems and Software Engineer, adept in hardware design and passionate about creating innovative and user-friendly websites. Proficient in HTML, CSS, JavaScript, and various web development tools, I seamlessly integrate software solutions into dynamic web applications. Committed to delivering high-quality work with keen attention to detail, my portfolio reflects the successful fusion of embedded systems and web development expertise.
+                </p>
+                <ul>
+                    <li class="tab-links active-link" onclick="openTab('skills')">Skills</li>
+                    <li class="tab-links" onclick="openTab('education')">Education</li>
+                    <li class="tab-links" onclick="openTab('experiences')">Experiences</li>
+                </ul>
+
+                <div class="tab-contents active-tab" id="skills">
+                    <h3 class="bgcolor">Web Development</h3>
+                    <p>HTML, CSS, JavaScript, and more.</p>
+                    <p>Frontend Frameworks</p>
+                    <p>Backend Frameworks</p>
+
+                    <h3 class="bgcolor">Database Management</h3>
+                    <p>MySQL, PostgreSQL</p>
+                    <p>NoSQL, MongoDB</p>
+
+                    <h3 class="bgcolor">Embedded Systems Design & Internet Of Things</h3>
+                    <p>Shaping IoT Experiences with Innovative Solutions.</p>
+                    <p>Crafting Innovative Embedded Devices.</p>
+
+                    <h3 class="bgcolor">API, Web Services & Version Control</h3>
+                    <p>Designing, building, and consuming APIs.</p>
+                    <p>Git and platforms like GitHub</p>
+                    
+
+                </div>
+
+                <div class="tab-contents education" id="education">
+                    <h3 class="bgcolor">2018 - 2023  </h3>
+                    <p>B.ENG, Electrical /Electronics Engineering | University of Benin</p>
+
+                    <h3 class="bgcolor">2010 - 2016</h3>
+                    <p>Vera Grace Comprehensive College</p>
+
+                    <h3 class="bgcolor">2005 - 2010</h3>
+                    <p>Primary | KingsWay Group of School</p>
+
+                </div>
+
+                <div class="tab-contents experiences" id="experiences">
+
+                    <h3 class="bgcolor">Decagon</h3>
+                    <p>Fullstack developer with more than 5 years of experience</p>
+
+                    <h3 class="bgcolor">Gentro</h3>
+                    <p>Worked as an Embedded systems engineer</p>
+
+                    <h3 class="bgcolor">Egbin Power Plant</h3>
+                    <p>Technical Assistant</p>
+
+                   
+
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
+
+
+
+@* <-----------Portfolio-------> *@
+<section class="portfolio" id="portfolio">
+    <div class="center-text">
+        <h2>My <span>Portfolio</span></h2>
+    </div>
+
+    <div class="Portfolio-content">
+        <div class="row">
+            <img src="~/images/3309172.jpg">
+            <div class="main-row">
+                <div class="row-text">
+                    <h5>Website Application</h5>
+                </div>
+                <div class="row-icon">
+                    <i class="ri-github-fill"></i>
+                </div>
+            </div>
+            <h4>Garbage Disposal App Design</h4>
+        </div>
+
+        <div class="row">
+            <img src="~/images/4307057.jpg">
+            <div class="main-row">
+                <div class="row-text">
+                    <h5>Mobile App Design</h5>
+                </div>
+                <div class="row-icon">
+                    <i class="ri-github-fill"></i>
+                </div>
+            </div>
+            <h4>Fitness Tracker App Design</h4>
+        </div>
+
+        <div class="row">
+            <img src="~/images/4215605.jpg">
+            <div class="main-row">
+                <div class="row-text">
+                    <h5>Website Design</h5>
+                </div>
+                <div class="row-icon">
+                    <i class="ri-github-fill"></i>
+                </div>
+            </div>
+            <h4>Smart Home App Design</h4>
+        </div>
+
+        <div class="row">
+            <img src="~/images/real-estate-app-interface-template_107173-12938.jpg">
+            <div class="main-row">
+                <div class="row-text">
+                    <h5>Website Design</h5>
+                </div>
+                <div class="row-icon">
+                    <i class="ri-github-fill"></i>
+                </div>
+            </div>
+            <h4>Real Estate Demo App Design</h4>
+        </div>
+
+        <div class="row">
+            <img src="~/images/taxi-app-interface-concept_23-2148496314.jpg">
+            <div class="main-row">
+                <div class="row-text">
+                    <h5>Website Design</h5>
+                </div>
+                <div class="row-icon">
+                    <i class="ri-github-fill"></i>
+                </div>
+            </div>
+            <h4>Taxi App Interface Design</h4>
+        </div>
+
+        <div class="row">
+            <img src="~/images/course-app-collection-template_23-2148651019.jpg">
+            <div class="main-row">
+                <div class="row-text">
+                    <h5>Website Design</h5>
+                </div>
+                <div class="row-icon">
+                    <i class="ri-github-fill"></i>
+                </div>
+            </div>
+            <h4>Online Course Application</h4>
+        </div>
+
+        @* <div class="row">
+            <img src="~/images/port-5.jpg">
+            <div class="main-row">
+                <div class="row-text">
+                    <h5>Website Design</h5>
+                </div>
+                <div class="row-icon">
+                    <i class="ri-github-fill"></i>
+                </div>
+            </div>
+            <h4>Website Development For X Developer</h4>
+        </div>
+
+        <div class="row">
+            <img src="~/images/port-6.jpg">
+            <div class="main-row">
+                <div class="row-text">
+                    <h5>Website Design</h5>
+                </div>
+                <div class="row-icon">
+                    <i class="ri-github-fill"></i>
+                </div>
+            </div>
+            <h4>Website Development For X Developer</h4>
+        </div>
+
+        <div class="row">
+            <img src="~/images/port-4.jpg">
+            <div class="main-row">
+                <div class="row-text">
+                    <h5>Website Design</h5>
+                </div>
+                <div class="row-icon">
+                    <i class="ri-github-fill"></i>
+                </div>
+            </div>
+            <h4>Website Development For X Developer</h4>
+        </div> *@
+    </div>
+</section>
+
+
+<!-- Services -->
+<section class="services" id="services">
+    <div class="center-text">
+        <h2>My <span>Services</span></h2>
+    </div>
+
+    <div class="services-content">
+        <div class="box">
+            <img src="~/images/s-1.svg">
+            <h3>Web Development</h3>
+            <p>
+                Developing both frontend and backend components using HTML, CSS, JavaScript, and various web development frameworks.
+            </p>
+            <a href="#">
+                Download now
+                <i class="ri-arrow-right-line"></i>
+            </a>
+        </div>
+
+        <div class="box">
+            <img src="~/images/s-2.svg">
+            <h3>UI/UX Enhancement</h3>
+            <p>
+                Integrating design aesthetics into web development to craft interfaces that are both visually engaging and intuitively user-friendly.
+            </p>
+            <a href="#">
+                Download now
+                <i class="ri-arrow-right-line"></i>
+            </a>
+        </div>
+
+        <div class="box">
+            <img src="~/images/s-3.svg">
+            <h3>Security Implementation</h3>
+            <p>
+                Implementing security best practices in both embedded systems and web applications to ensure data integrity and user safety.
+            </p>
+            <a href="#">
+                Download now
+                <i class="ri-arrow-right-line"></i>
+            </a>
+        </div>
+
+    </div>
+</section>
+
+@* ---------Contacts------ *@
+<section class="contact" id="contact">
+    <div class="center-text">
+        <h2>Contact <span>Precious</span></h2>
+    </div>
+
+    <div class="contact-form">
+        <form action="">
+            <input type="text" placeholder="Your name" required>
+            <input type="email" placeholder="Email Address .. " required>
+            <textarea name="" id="" cols="30" rows="10" placeholder="Write Message Here. .. " required></textarea>
+            <input type="submit" name="" value="Send Message" class="send-btn">
+
+        </form>
+    </div>
+
+
+
+
+
+</section>

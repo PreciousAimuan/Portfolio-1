@@ -9,39 +9,55 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SQ20.Net_Wee7_8_Task
 build_property.RootNamespace = SQ20.Net_Wee7_8_Task
-build_property.ProjectDir = C:\Users\Decagon\source\repos\SQ20.Net_Wee7-8_Task\
+build_property.ProjectDir = C:\Users\ZBOOK 14U G6\source\repos\sq20-net-week-7-8-task-PreciousAimuan\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Decagon\source\repos\SQ20.Net_Wee7-8_Task
+build_property.MSBuildProjectDirectory = C:\Users\ZBOOK 14U G6\source\repos\sq20-net-week-7-8-task-PreciousAimuan
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Decagon/source/repos/SQ20.Net_Wee7-8_Task/Views/Home/Index.cshtml]
+[C:/Users/ZBOOK 14U G6/source/repos/sq20-net-week-7-8-task-PreciousAimuan/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZBOOK 14U G6/source/repos/sq20-net-week-7-8-task-PreciousAimuan/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZBOOK 14U G6/source/repos/sq20-net-week-7-8-task-PreciousAimuan/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Decagon/source/repos/SQ20.Net_Wee7-8_Task/Views/Home/Privacy.cshtml]
+[C:/Users/ZBOOK 14U G6/source/repos/sq20-net-week-7-8-task-PreciousAimuan/Views/Home/Portfolio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQb3J0Zm9saW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZBOOK 14U G6/source/repos/sq20-net-week-7-8-task-PreciousAimuan/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Decagon/source/repos/SQ20.Net_Wee7-8_Task/Views/Shared/Error.cshtml]
+[C:/Users/ZBOOK 14U G6/source/repos/sq20-net-week-7-8-task-PreciousAimuan/Views/Home/Services.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZXJ2aWNlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZBOOK 14U G6/source/repos/sq20-net-week-7-8-task-PreciousAimuan/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Decagon/source/repos/SQ20.Net_Wee7-8_Task/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/ZBOOK 14U G6/source/repos/sq20-net-week-7-8-task-PreciousAimuan/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Decagon/source/repos/SQ20.Net_Wee7-8_Task/Views/_ViewImports.cshtml]
+[C:/Users/ZBOOK 14U G6/source/repos/sq20-net-week-7-8-task-PreciousAimuan/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Decagon/source/repos/SQ20.Net_Wee7-8_Task/Views/_ViewStart.cshtml]
+[C:/Users/ZBOOK 14U G6/source/repos/sq20-net-week-7-8-task-PreciousAimuan/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Decagon/source/repos/SQ20.Net_Wee7-8_Task/Views/Shared/_Layout.cshtml]
+[C:/Users/ZBOOK 14U G6/source/repos/sq20-net-week-7-8-task-PreciousAimuan/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-dmlm4vjpb6

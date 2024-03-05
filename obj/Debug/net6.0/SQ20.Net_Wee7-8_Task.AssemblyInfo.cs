@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SQ20.Net_Wee7-8_Task")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4f64d168ed354d991de174b80af5638fa8f9894")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3819dd33c2d2fb3dd54ba1a238e1ba79ddf37dda")]
 [assembly: System.Reflection.AssemblyProductAttribute("SQ20.Net_Wee7-8_Task")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SQ20.Net_Wee7-8_Task")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

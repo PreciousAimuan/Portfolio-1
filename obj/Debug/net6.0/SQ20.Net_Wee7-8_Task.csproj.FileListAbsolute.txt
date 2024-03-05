@@ -29,3 +29,34 @@ C:\Users\Decagon\source\repos\SQ20.Net_Wee7-8_Task\obj\Debug\net6.0\refint\SQ20.
 C:\Users\Decagon\source\repos\SQ20.Net_Wee7-8_Task\obj\Debug\net6.0\SQ20.Net_Wee7-8_Task.pdb
 C:\Users\Decagon\source\repos\SQ20.Net_Wee7-8_Task\obj\Debug\net6.0\SQ20.Net_Wee7-8_Task.genruntimeconfig.cache
 C:\Users\Decagon\source\repos\SQ20.Net_Wee7-8_Task\obj\Debug\net6.0\ref\SQ20.Net_Wee7-8_Task.dll
+C:\Users\ZBOOK 14U G6\Source\Repos\sq20-net-week-7-8-task-PreciousAimuan\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ZBOOK 14U G6\Source\Repos\sq20-net-week-7-8-task-PreciousAimuan\bin\Debug\net6.0\appsettings.json
+C:\Users\ZBOOK 14U G6\Source\Repos\sq20-net-week-7-8-task-PreciousAimuan\bin\Debug\net6.0\SQ20.Net_Wee7-8_Task.staticwebassets.runtime.json
+C:\Users\ZBOOK 14U G6\Source\Repos\sq20-net-week-7-8-task-PreciousAimuan\bin\Debug\net6.0\SQ20.Net_Wee7-8_Task.exe
+C:\Users\ZBOOK 14U G6\Source\Repos\sq20-net-week-7-8-task-PreciousAimuan\bin\Debug\net6.0\SQ20.Net_Wee7-8_Task.deps.json
+C:\Users\ZBOOK 14U G6\Source\Repos\sq20-net-week-7-8-task-PreciousAimuan\bin\Debug\net6.0\SQ20.Net_Wee7-8_Task.runtimeconfig.json
+C:\Users\ZBOOK 14U G6\Source\Repos\sq20-net-week-7-8-task-PreciousAimuan\bin\Debug\net6.0\SQ20.Net_Wee7-8_Task.dll
+C:\Users\ZBOOK 14U G6\Source\Repos\sq20-net-week-7-8-task-PreciousAimuan\bin\Debug\net6.0\SQ20.Net_Wee7-8_Task.pdb
+C:\Users\ZBOOK 14U G6\Source\Repos\sq20-net-week-7-8-task-PreciousAimuan\obj\Debug\net6.0\SQ20.Net_Wee7-8_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZBOOK 14U G6\Source\Repos\sq20-net-week-7-8-task-PreciousAimuan\obj\Debug\net6.0\SQ20.Net_Wee7-8_Task.AssemblyInfoInputs.cache
+C:\Users\ZBOOK 14U G6\Source\Repos\sq20-net-week-7-8-task-PreciousAimuan\obj\Debug\net6.0\SQ20.Net_Wee7-8_Task.AssemblyInfo.cs
+C:\Users\ZBOOK 14U G6\Source\Repos\sq20-net-week-7-8-task-PreciousAimuan\obj\Debug\net6.0\SQ20.Net_Wee7-8_Task.csproj.CoreCompileInputs.cache
+C:\Users\ZBOOK 14U G6\Source\Repos\sq20-net-week-7-8-task-PreciousAimuan\obj\Debug\net6.0\SQ20.Net_Wee7-8_Task.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ZBOOK 14U G6\Source\Repos\sq20-net-week-7-8-task-PreciousAimuan\obj\Debug\net6.0\SQ20.Net_Wee7-8_Task.RazorAssemblyInfo.cache
+C:\Users\ZBOOK 14U G6\Source\Repos\sq20-net-week-7-8-task-PreciousAimuan\obj\Debug\net6.0\SQ20.Net_Wee7-8_Task.RazorAssemblyInfo.cs
+C:\Users\ZBOOK 14U G6\Source\Repos\sq20-net-week-7-8-task-PreciousAimuan\obj\Debug\net6.0\SQ20.Net_Wee7-8_Task.sourcelink.json
+C:\Users\ZBOOK 14U G6\Source\Repos\sq20-net-week-7-8-task-PreciousAimuan\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ZBOOK 14U G6\Source\Repos\sq20-net-week-7-8-task-PreciousAimuan\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ZBOOK 14U G6\Source\Repos\sq20-net-week-7-8-task-PreciousAimuan\obj\Debug\net6.0\staticwebassets\msbuild.SQ20.Net_Wee7-8_Task.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ZBOOK 14U G6\Source\Repos\sq20-net-week-7-8-task-PreciousAimuan\obj\Debug\net6.0\staticwebassets\msbuild.build.SQ20.Net_Wee7-8_Task.props
+C:\Users\ZBOOK 14U G6\Source\Repos\sq20-net-week-7-8-task-PreciousAimuan\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SQ20.Net_Wee7-8_Task.props
+C:\Users\ZBOOK 14U G6\Source\Repos\sq20-net-week-7-8-task-PreciousAimuan\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SQ20.Net_Wee7-8_Task.props
+C:\Users\ZBOOK 14U G6\Source\Repos\sq20-net-week-7-8-task-PreciousAimuan\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ZBOOK 14U G6\Source\Repos\sq20-net-week-7-8-task-PreciousAimuan\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ZBOOK 14U G6\Source\Repos\sq20-net-week-7-8-task-PreciousAimuan\obj\Debug\net6.0\scopedcss\bundle\SQ20.Net_Wee7-8_Task.styles.css
+C:\Users\ZBOOK 14U G6\Source\Repos\sq20-net-week-7-8-task-PreciousAimuan\obj\Debug\net6.0\scopedcss\projectbundle\SQ20.Net_Wee7-8_Task.bundle.scp.css
+C:\Users\ZBOOK 14U G6\Source\Repos\sq20-net-week-7-8-task-PreciousAimuan\obj\Debug\net6.0\SQ20.Net_Wee7-8_Task.dll
+C:\Users\ZBOOK 14U G6\Source\Repos\sq20-net-week-7-8-task-PreciousAimuan\obj\Debug\net6.0\refint\SQ20.Net_Wee7-8_Task.dll
+C:\Users\ZBOOK 14U G6\Source\Repos\sq20-net-week-7-8-task-PreciousAimuan\obj\Debug\net6.0\SQ20.Net_Wee7-8_Task.pdb
+C:\Users\ZBOOK 14U G6\Source\Repos\sq20-net-week-7-8-task-PreciousAimuan\obj\Debug\net6.0\SQ20.Net_Wee7-8_Task.genruntimeconfig.cache
+C:\Users\ZBOOK 14U G6\Source\Repos\sq20-net-week-7-8-task-PreciousAimuan\obj\Debug\net6.0\ref\SQ20.Net_Wee7-8_Task.dll

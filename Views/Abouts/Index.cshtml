@@ -1,0 +1,38 @@
+﻿@model IEnumerable<About>
+
+@{
+    ViewData["Title"] = "About";
+}
+
+<section class="portfolio" id="portfolio">
+    <div class="center-text">
+        <h2>About <span>ME</span></h2>
+    </div>
+    <div class="top-btnn">
+        @* <a asp-controller="About" asp-action="Create" class="h-btn1">Create</a> *@
+    </div>
+    @foreach (var items in Model)
+    {
+        <div class="Portfolio-content">
+            <div class="row">
+               @*  <img src="@items.Image"> *@
+                <div class="main-row">
+                    <div class="row-text">
+                        <h5>@items.Name</h5>
+                       @*  <h5>@items.Description</h5> *@
+                    </div>
+                    <div class="row-icon">
+                        <i class="ri-github-fill"></i>
+                    </div>
+                </div>
+                <h4>@items.Description</h4>
+            </div>
+            <div class="top-btnn">
+                <a asp-controller="Abouts" asp-action="Edit" asp-route-Id="@items.Id" class="h-btn1">Edit</a>
+            </div>
+
+        </div>
+
+    }
+
+</section>

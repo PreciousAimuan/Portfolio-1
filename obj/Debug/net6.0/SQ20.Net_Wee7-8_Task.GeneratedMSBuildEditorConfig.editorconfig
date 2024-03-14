@@ -18,8 +18,12 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\ZBOOK 14U G6\source\repos\sq20-net-week-7-8-task-PreciousAimuan
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/ZBOOK 14U G6/source/repos/sq20-net-week-7-8-task-PreciousAimuan/Views/About/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcSW5kZXguY3NodG1s
+[C:/Users/ZBOOK 14U G6/source/repos/sq20-net-week-7-8-task-PreciousAimuan/Views/Abouts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZBOOK 14U G6/source/repos/sq20-net-week-7-8-task-PreciousAimuan/Views/Abouts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/ZBOOK 14U G6/source/repos/sq20-net-week-7-8-task-PreciousAimuan/Views/Account/Login.cshtml]

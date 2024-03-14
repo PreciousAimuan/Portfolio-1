@@ -7,8 +7,9 @@
 <section class="hero" id="home">
     <div class="main-content">
         <h4>Hi, There !</h4>
-        @foreach(var item in Model.Abouts)
-         {  <h1>I'm <span> @item.Name</span></h1>
+        @foreach (var item in Model.Abouts)
+        {
+              <h1>I'm <span> @item.Name</span></h1>
             <p>
                 @item.Description
             </p>
@@ -24,16 +25,15 @@
 
         <div class="main-btn">
             <a href="#" class="btn">Hire me</a>
-            <a href="#" class="btn btn2">Download CV</a
-            >
+            <a href="#" class="btn btn2">Download CV</a>
         </div>
     </div>
 
     <img src="/images/him.jpeg" class="bg-img" alt="">
-</section> 
+</section>
 
 @* <-----About-----------> *@
- <div id="about">
+<div id="about">
     <div class="container">
         <div class="row">
             <div class="about-col-1">
@@ -54,7 +54,8 @@
                 </ul>
 
                 <div class="tab-contents active-tab" id="skills">
-                    @foreach(var item in Model.Skills){
+                    @foreach (var item in Model.Skills)
+                    {
                         <h3 class="bgcolor"> @item.Name </h3>
                         <p>@item.Description</p>
                     }
@@ -67,25 +68,25 @@
                         <p>@item.Degree | @item.School</p>
 
                     }
-                
+
                 </div>
 
                 <div class="tab-contents experiences" id="experiences">
-                @foreach (var item in Model.Experiences)
-                {
-                    <h3 class="bgcolor">@item.Company</h3>
-                    <p>@item.Description</p>
-                }
+                    @foreach (var item in Model.Experiences)
+                    {
+                        <h3 class="bgcolor">@item.Company</h3>
+                        <p>@item.Description</p>
+                    }
                 </div>
             </div>
         </div>
     </div>
-</div> 
+</div>
 
 
 
 @* <-----------Portfolio-------> *@
-@* <section class="portfolio" id="portfolio">
+<section class="portfolio" id="portfolio">
     <div class="center-text">
         <h2>My <span>Portfolio</span></h2>
     </div>
@@ -112,7 +113,7 @@
 
 
 <!-- Services -->
-@* <section class="services" id="services">
+<section class="services" id="services">
     <div class="center-text">
         <h2>My <span>Services</span></h2>
     </div>
@@ -128,10 +129,10 @@
         }
 
     </div>
-</section> *@
+</section> 
 
 @* ---------Contacts------ *@
-@* <section class="contact" id="contact">
+ <section class="contact" id="contact">
     <div class="center-text">
         <h2>Contact <span>Precious</span></h2>
     </div>
@@ -146,7 +147,7 @@
         </form>
     </div>
 
-</section> *@
+</section> 
 
 
 
@@ -176,7 +177,7 @@
     <img src="images/Favour Ezeh (2).jpeg" class="bg-img" alt="">
 </section>
 
-@* <-----About-----------> 
+@* <-----About----------->
 <div id="about">
     <div class="container">
         <div class="row">
@@ -233,7 +234,7 @@
 </div>
 
 
-@* <-----------Portfolio-------> 
+@* <-----------Portfolio------->
 <section class="portfolio" id="portfolio">
     <div class="center-text">
         <h2>My <span>Portfolio</span></h2>
@@ -415,7 +416,7 @@
     </div>
 </section>
 
-@* ---------Contacts------ 
+@* ---------Contacts------
 <section class="contact" id="contact">
     <div class="center-text">
         <h2>Contact <span>Favour</span></h2>

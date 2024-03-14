@@ -32,7 +32,7 @@ namespace SQ20.Net_Wee7_8_Task.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> Create(CreateProjectViewModel serviceVm)
+        public async Task<IActionResult> Create(CreateServicesViewModel serviceVm)
         {
          
             if (ModelState.IsValid)

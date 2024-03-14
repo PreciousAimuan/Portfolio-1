@@ -35,7 +35,7 @@ namespace SQ20.Net_Wee7_8_Task.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> Create(CreateProjectViewModel projectVm)
+        public async Task<IActionResult> Create(CreatePortfolioViewModel projectVm)
         {
             
             if (ModelState.IsValid)

@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("d3373a42-ab58-47ed-bffb-46a1db561fda")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("SQ20.Net_Wee7-8_Task")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3819dd33c2d2fb3dd54ba1a238e1ba79ddf37dda")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+801d1df8b8048669667bf4879d5740f4458182ed")]
 [assembly: System.Reflection.AssemblyProductAttribute("SQ20.Net_Wee7-8_Task")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SQ20.Net_Wee7-8_Task")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

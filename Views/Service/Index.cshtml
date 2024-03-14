@@ -1,0 +1,29 @@
+﻿@model IEnumerable<Service>
+
+@{
+    ViewData["Title"] = "Services";
+}
+<!-- Services -->
+<section class="services" id="services">
+    <div class="center-text">
+        <h2>My <span>Services</span></h2>
+    </div>
+    
+    @foreach (var items in Model)
+    {
+        <div class="services-content">
+            <div class="box">
+                <img src="@items.Image">
+                <h3>@items.Title</h3>
+                <p>
+                    @items.Description
+                </p>
+            </div>
+            <div class="top-btnn">
+                <a asp-controller="Service" asp-action="Create" class="h-btn1">Create</a>
+                <a asp-controller="Service" asp-action="Edit" asp-route-Id="@items.Id" class="h-btn1">Edit</a>
+            </div>
+
+        </div>
+    }
+</section>

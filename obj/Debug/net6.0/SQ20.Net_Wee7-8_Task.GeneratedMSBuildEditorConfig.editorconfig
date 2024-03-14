@@ -54,10 +54,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZXJ2aWNlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ZBOOK 14U G6/source/repos/sq20-net-week-7-8-task-PreciousAimuan/Views/NewHome/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3SG9tZVxJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/ZBOOK 14U G6/source/repos/sq20-net-week-7-8-task-PreciousAimuan/Views/Project/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -84,6 +80,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/ZBOOK 14U G6/source/repos/sq20-net-week-7-8-task-PreciousAimuan/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZBOOK 14U G6/source/repos/sq20-net-week-7-8-task-PreciousAimuan/Views/Shared/_DashboardLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9EYXNoYm9hcmRMYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/ZBOOK 14U G6/source/repos/sq20-net-week-7-8-task-PreciousAimuan/Views/Shared/_ValidationScriptsPartial.cshtml]

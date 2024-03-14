@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "UepuBPOy2Qg1bVQWtk2xmLAx79Pjhgwg+sKjEiJV8Ck=",
+  "Hash": "clm5mTGq3qXIiCXKyKmic2s+7wpnV4c5rxYBX/Z4ynY=",
   "Source": "SQ20.Net_Wee7-8_Task",
   "BasePath": "_content/SQ20.Net_Wee7-8_Task",
   "Mode": "Default",
@@ -53,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SQ20.Net_Wee7-8_Task.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\wwwroot\\css\\Dashboard.css",
+      "SourceId": "SQ20.Net_Wee7-8_Task",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\wwwroot\\",
+      "BasePath": "_content/SQ20.Net_Wee7-8_Task",
+      "RelativePath": "css/Dashboard.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Dashboard.css"
     },
     {
       "Identity": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\wwwroot\\css\\site.css",
@@ -509,6 +528,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\work-3.png"
+    },
+    {
+      "Identity": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\wwwroot\\js\\Dashboard.js",
+      "SourceId": "SQ20.Net_Wee7-8_Task",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\wwwroot\\",
+      "BasePath": "_content/SQ20.Net_Wee7-8_Task",
+      "RelativePath": "js/Dashboard.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Dashboard.js"
     },
     {
       "Identity": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\wwwroot\\js\\site.js",

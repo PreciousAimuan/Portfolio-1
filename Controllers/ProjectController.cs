@@ -37,9 +37,7 @@ namespace SQ20.Net_Wee7_8_Task.Controllers
         [HttpPost]
         public async Task<IActionResult> Create(CreateProjectViewModel projectVm)
         {
-            //return View();
-            //this means thta if the user did not input a required field,this will show the user
-            //the error while still on that page depending on the field not filled in correctly
+            
             if (ModelState.IsValid)
             {
                 var result = await _photoService.AddPhotoAsync(projectVm.Image);

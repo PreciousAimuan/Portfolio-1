@@ -8,6 +8,9 @@
     <div class="center-text">
         <h2>My <span>Portfolio</span></h2>
     </div>
+    <div class="top-btnn">
+        <a asp-controller="Project" asp-action="Create" class="h-btn1">Create</a>
+    </div>
     @foreach (var items in Model)
     {
         <div class="Portfolio-content">
@@ -24,10 +27,11 @@
                 <h4>@items.Description</h4>
             </div>
             <div class="top-btnn">
-                <a asp-controller="Project" asp-action="Create" class="h-btn1">Create</a>
                 <a asp-controller="Project" asp-action="Edit" asp-route-Id="@items.Id" class="h-btn1">Edit</a>
             </div>
 
         </div>
+
     }
+
 </section>

@@ -1,0 +1,24 @@
+﻿1@using Microsoft.AspNetCore.Mvc.TagHelpers
+@using SQ20.Net_Wee7_8_Task.Data.Enum
+@model SQ20.Net_Wee7_8_Task.ViewModels.EditSkillViewModel
+
+<form method="post" asp-action="Edit" enctype="multipart/form-data" class="editParent">
+    <input type="hidden" value="Id" id="Id" />
+    <div class="form-group editPage">
+        <label asp-for="Name">Name</label>
+        <input asp-for="Name" class="form-control" placeholder="Name">
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="form-group  editPage">
+        <select asp-for="ProficiencyLevel" asp-items="@Html.GetEnumSelectList<ProficiencyLevel>()" class="form-control form-control-lg">
+            <option>--Select--</option>
+        </select>
+        <span asp-validation-for="ProficiencyLevel" class="text-danger"></span>
+    </div>
+    <div class="form-group  editPage">
+        <label asp-for="Description">Description</label>
+        <input asp-for="Description" class="form-control" placeholder="Description">
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

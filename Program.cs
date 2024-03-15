@@ -22,6 +22,9 @@ using SQ20.Net_Wee7_8_Task.Services;
             builder.Services.AddScoped<IPhotoService, PhotoService>();
             builder.Services.AddScoped<IServiceRepository, ServiceRepository>();
             builder.Services.AddScoped<IAboutRepository, AboutRepository>();
+            builder.Services.AddScoped<ISkillRepository, SkillRepository>();
+            builder.Services.AddScoped<IEducationRepository, EducationRepository>();
+            builder.Services.AddScoped<IExperienceRepository, ExperienceRepository>();
 
 builder.Services.Configure<CloudinarySettings>(builder.Configuration.GetSection("CloudinarySettings"));
 

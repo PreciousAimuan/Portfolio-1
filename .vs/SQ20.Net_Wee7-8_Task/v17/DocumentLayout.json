@@ -3,172 +3,136 @@
   "WorkspaceRootPath": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\views\\abouts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:views\\abouts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\views\\abouts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:views\\abouts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\repository\\aboutrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:repository\\aboutrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\interfaces\\iaboutrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:interfaces\\iaboutrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\viewmodels\\editaboutviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:viewmodels\\editaboutviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\models\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:models\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\views\\project\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:views\\project\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\views\\project\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:views\\project\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\views\\service\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:views\\service\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\views\\project\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:views\\project\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\views\\service\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:views\\service\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\viewmodels\\createportfolioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:viewmodels\\createportfolioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\viewmodels\\createprojectviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:viewmodels\\createprojectviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\repository\\experiencerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:repository\\experiencerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\repository\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:repository\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\interfaces\\iservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:interfaces\\iservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\interfaces\\iexperiencerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:interfaces\\iexperiencerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\interfaces\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:interfaces\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\views\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:views\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\repository\\servicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:repository\\servicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\wwwroot\\css\\dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:wwwroot\\css\\dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\wwwroot\\js\\dashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:wwwroot\\js\\dashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\views\\shared\\_dashboardlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:views\\shared\\_dashboardlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\controllers\\experiencecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:controllers\\experiencecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\data\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:data\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\repository\\skillrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:repository\\skillrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\migrations\\20240314102756_initialtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:migrations\\20240314102756_initialtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\models\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:models\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\repository\\educationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:repository\\educationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\viewmodels\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:viewmodels\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\repository\\servicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:repository\\servicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\repository\\aboutrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:repository\\aboutrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\controllers\\skillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:controllers\\skillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\controllers\\educationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:controllers\\educationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\views\\experience\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:views\\experience\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\views\\experience\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:views\\experience\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\viewmodels\\editexperienceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:viewmodels\\editexperienceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\views\\skill\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:views\\skill\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\views\\skill\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:views\\skill\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\views\\experience\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:views\\experience\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\views\\education\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:views\\education\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\views\\education\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:views\\education\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\viewmodels\\createeducationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:viewmodels\\createeducationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\viewmodels\\editeducationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:viewmodels\\editeducationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\viewmodels\\createexperienceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:viewmodels\\createexperienceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\views\\service\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:views\\service\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\views\\skill\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:views\\skill\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\viewmodels\\createskillviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:viewmodels\\createskillviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\viewmodels\\createprojectviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:viewmodels\\createprojectviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\viewmodels\\editskillviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:viewmodels\\editskillviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\views\\project\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:views\\project\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|c:\\users\\zbook 14u g6\\source\\repos\\sq20-net-week-7-8-task-preciousaimuan\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB7B6008-0DD7-45BB-9771-9EB366755495}|SQ20.Net_Wee7-8_Task.csproj|solutionrelative:controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -178,536 +142,436 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Views\\Dashboard\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Views\\Dashboard\\Index.cshtml",
-              "RelativeToolTip": "Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAAEIAAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-13T20:37:35.626Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAHUAAAAAAAAAAAAAAJUAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-13T20:22:09.045Z",
+              "Title": "IProjectRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Interfaces\\IProjectRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IProjectRepository.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Interfaces\\IProjectRepository.cs",
+              "RelativeToolTip": "Interfaces\\IProjectRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:22:44.61Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Views\\Abouts\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Abouts\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Views\\Abouts\\Index.cshtml",
-              "RelativeToolTip": "Views\\Abouts\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-13T20:23:44.619Z",
+              "DocumentIndex": 2,
+              "Title": "IExperienceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Interfaces\\IExperienceRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IExperienceRepository.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Interfaces\\IExperienceRepository.cs",
+              "RelativeToolTip": "Interfaces\\IExperienceRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:22:21.136Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AboutController.cs",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Controllers\\AboutController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AboutController.cs",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Controllers\\AboutController.cs",
-              "RelativeToolTip": "Controllers\\AboutController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACkAAAAUAAAA",
+              "Title": "ExperienceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Repository\\ExperienceRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ExperienceRepository.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Repository\\ExperienceRepository.cs",
+              "RelativeToolTip": "Repository\\ExperienceRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T20:13:29.78Z",
+              "WhenOpened": "2024-03-15T03:13:52.685Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Views\\Abouts\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Abouts\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Views\\Abouts\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Abouts\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-14T16:20:29.75Z",
+              "DocumentIndex": 1,
+              "Title": "ProjectRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Repository\\ProjectRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ProjectRepository.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Repository\\ProjectRepository.cs",
+              "RelativeToolTip": "Repository\\ProjectRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:14:03.896Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "ProjectController.cs",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Controllers\\ProjectController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ProjectController.cs",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Controllers\\ProjectController.cs",
-              "RelativeToolTip": "Controllers\\ProjectController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwGUAAAAoAAAA",
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T20:25:34.355Z",
+              "WhenOpened": "2024-03-15T03:21:27.827Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "AboutRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Repository\\AboutRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\AboutRepository.cs",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Repository\\AboutRepository.cs",
-              "RelativeToolTip": "Repository\\AboutRepository.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAkwAoAAAA1AAAA",
+              "Title": "SkillRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Repository\\SkillRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\SkillRepository.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Repository\\SkillRepository.cs",
+              "RelativeToolTip": "Repository\\SkillRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T20:56:39.723Z",
+              "WhenOpened": "2024-03-15T03:14:30.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExperienceController.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Controllers\\ExperienceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ExperienceController.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Controllers\\ExperienceController.cs",
+              "RelativeToolTip": "Controllers\\ExperienceController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwBcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T02:57:58.641Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "IAboutRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Interfaces\\IAboutRepository.cs",
-              "RelativeDocumentMoniker": "Interfaces\\IAboutRepository.cs",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Interfaces\\IAboutRepository.cs",
-              "RelativeToolTip": "Interfaces\\IAboutRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T21:00:04.335Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAqAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAawBkAAABUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T11:58:41.646Z",
+              "WhenOpened": "2024-03-15T03:08:37.136Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "EditAboutViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\ViewModels\\EditAboutViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\EditAboutViewModel.cs",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\ViewModels\\EditAboutViewModel.cs",
-              "RelativeToolTip": "ViewModels\\EditAboutViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Title": "ServiceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Repository\\ServiceRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ServiceRepository.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Repository\\ServiceRepository.cs",
+              "RelativeToolTip": "Repository\\ServiceRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T16:22:10.495Z",
+              "WhenOpened": "2024-03-15T03:14:33.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EducationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Repository\\EducationRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\EducationRepository.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Repository\\EducationRepository.cs",
+              "RelativeToolTip": "Repository\\EducationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:14:36.282Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "About.cs",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Models\\About.cs",
-              "RelativeDocumentMoniker": "Models\\About.cs",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Models\\About.cs",
-              "RelativeToolTip": "Models\\About.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Title": "AboutRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Repository\\AboutRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\AboutRepository.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Repository\\AboutRepository.cs",
+              "RelativeToolTip": "Repository\\AboutRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T20:30:50.148Z",
+              "WhenOpened": "2024-03-15T03:13:54.252Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Views\\Project\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Project\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Views\\Project\\Index.cshtml",
-              "RelativeToolTip": "Views\\Project\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAADoAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-14T15:41:13.446Z",
+              "WhenOpened": "2024-03-15T03:04:42.019Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "About.cshtml",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Views\\Home\\About.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Views\\Home\\About.cshtml",
-              "RelativeToolTip": "Views\\Home\\About.cshtml",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEgAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-13T20:30:44.491Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Views\\Project\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Project\\Create.cshtml",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Views\\Project\\Create.cshtml",
-              "RelativeToolTip": "Views\\Project\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-14T15:33:22.367Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Views\\Service\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Service\\Create.cshtml",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Views\\Service\\Create.cshtml",
-              "RelativeToolTip": "Views\\Service\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-14T15:51:39.883Z",
+              "Title": "SkillController.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Controllers\\SkillController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SkillController.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Controllers\\SkillController.cs",
+              "RelativeToolTip": "Controllers\\SkillController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:03:21.822Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "ServiceController.cs",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Controllers\\ServiceController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ServiceController.cs",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Controllers\\ServiceController.cs",
-              "RelativeToolTip": "Controllers\\ServiceController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCIAAABSAAAA",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Views\\Experience\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Experience\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Views\\Experience\\Create.cshtml",
+              "RelativeToolTip": "Views\\Experience\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T02:32:19.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Views\\Experience\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Experience\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Views\\Experience\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Experience\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T02:32:07.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EducationController.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Controllers\\EducationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EducationController.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Controllers\\EducationController.cs",
+              "RelativeToolTip": "Controllers\\EducationController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T20:26:08.481Z",
+              "WhenOpened": "2024-03-15T02:30:42.917Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Views\\Project\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Project\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Views\\Project\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Project\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-13T20:33:28.127Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Views\\Service\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Service\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Views\\Service\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Service\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-13T20:32:42.591Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "CreatePortfolioViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\ViewModels\\CreatePortfolioViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\CreatePortfolioViewModel.cs",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\ViewModels\\CreatePortfolioViewModel.cs",
-              "RelativeToolTip": "ViewModels\\CreatePortfolioViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
+              "Title": "EditExperienceViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\ViewModels\\EditExperienceViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\EditExperienceViewModel.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\ViewModels\\EditExperienceViewModel.cs",
+              "RelativeToolTip": "ViewModels\\EditExperienceViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T15:34:28.388Z",
+              "WhenOpened": "2024-03-15T02:49:22.09Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "CreateProjectViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\ViewModels\\CreateProjectViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\CreateProjectViewModel.cs",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\ViewModels\\CreateProjectViewModel.cs",
-              "RelativeToolTip": "ViewModels\\CreateProjectViewModel.cs",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Views\\Experience\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Experience\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Views\\Experience\\Index.cshtml",
+              "RelativeToolTip": "Views\\Experience\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T15:34:30.029Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T02:57:21.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Views\\Skill\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Skill\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Views\\Skill\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Skill\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T02:31:28.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Views\\Skill\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Skill\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Views\\Skill\\Create.cshtml",
+              "RelativeToolTip": "Views\\Skill\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T02:39:29.793Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "ProjectRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Repository\\ProjectRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\ProjectRepository.cs",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Repository\\ProjectRepository.cs",
-              "RelativeToolTip": "Repository\\ProjectRepository.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAAADEAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T15:46:41.926Z",
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Views\\Education\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Education\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Views\\Education\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Education\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T02:30:59.043Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "IServiceRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Interfaces\\IServiceRepository.cs",
-              "RelativeDocumentMoniker": "Interfaces\\IServiceRepository.cs",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Interfaces\\IServiceRepository.cs",
-              "RelativeToolTip": "Interfaces\\IServiceRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T17:05:48.703Z",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Views\\Education\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Education\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Views\\Education\\Create.cshtml",
+              "RelativeToolTip": "Views\\Education\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T02:32:29.9Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "IProjectRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Interfaces\\IProjectRepository.cs",
-              "RelativeDocumentMoniker": "Interfaces\\IProjectRepository.cs",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Interfaces\\IProjectRepository.cs",
-              "RelativeToolTip": "Interfaces\\IProjectRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAArwA4AAAAUAAAA",
+              "Title": "CreateEducationViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\ViewModels\\CreateEducationViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\CreateEducationViewModel.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\ViewModels\\CreateEducationViewModel.cs",
+              "RelativeToolTip": "ViewModels\\CreateEducationViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T15:46:25.282Z",
+              "WhenOpened": "2024-03-15T02:54:09.708Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "HomeViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\ViewModels\\HomeViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\HomeViewModel.cs",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\ViewModels\\HomeViewModel.cs",
-              "RelativeToolTip": "ViewModels\\HomeViewModel.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAYAAAAPAAAA",
+              "Title": "EditEducationViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\ViewModels\\EditEducationViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\EditEducationViewModel.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\ViewModels\\EditEducationViewModel.cs",
+              "RelativeToolTip": "ViewModels\\EditEducationViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T20:24:02.93Z",
+              "WhenOpened": "2024-03-15T02:54:16.271Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Views\\Service\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Service\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Views\\Service\\Index.cshtml",
-              "RelativeToolTip": "Views\\Service\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-14T15:52:39.459Z",
+              "Title": "CreateExperienceViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\ViewModels\\CreateExperienceViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\CreateExperienceViewModel.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\ViewModels\\CreateExperienceViewModel.cs",
+              "RelativeToolTip": "ViewModels\\CreateExperienceViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T02:49:11.643Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
-              "Title": "ServiceRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Repository\\ServiceRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\ServiceRepository.cs",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Repository\\ServiceRepository.cs",
-              "RelativeToolTip": "Repository\\ServiceRepository.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T15:48:41.578Z"
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Views\\Service\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Service\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Views\\Service\\Create.cshtml",
+              "RelativeToolTip": "Views\\Service\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T02:48:31.895Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "Controllers\\DashboardController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T20:41:52.036Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Dashboard.js",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\wwwroot\\js\\Dashboard.js",
-              "RelativeDocumentMoniker": "wwwroot\\js\\Dashboard.js",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\wwwroot\\js\\Dashboard.js",
-              "RelativeToolTip": "wwwroot\\js\\Dashboard.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-03-14T14:28:17.258Z"
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Views\\Skill\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Skill\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Views\\Skill\\Index.cshtml",
+              "RelativeToolTip": "Views\\Skill\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T02:48:10.605Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
-              "Title": "Dashboard.css",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\wwwroot\\css\\Dashboard.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\Dashboard.css",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\wwwroot\\css\\Dashboard.css",
-              "RelativeToolTip": "wwwroot\\css\\Dashboard.css",
-              "ViewState": "AQIAAF8AAAAAAAAAAAAAAG0AAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-03-14T14:26:55.921Z"
+              "Title": "CreateSkillViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\ViewModels\\CreateSkillViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\CreateSkillViewModel.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\ViewModels\\CreateSkillViewModel.cs",
+              "RelativeToolTip": "ViewModels\\CreateSkillViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T02:43:56.49Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 28,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-03-14T15:11:33.977Z"
+              "Title": "CreateProjectViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\ViewModels\\CreateProjectViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\CreateProjectViewModel.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\ViewModels\\CreateProjectViewModel.cs",
+              "RelativeToolTip": "ViewModels\\CreateProjectViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T02:43:59.805Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "Views\\Account\\Login.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-13T20:33:58.091Z"
+              "DocumentIndex": 29,
+              "Title": "EditSkillViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\ViewModels\\EditSkillViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\EditSkillViewModel.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\ViewModels\\EditSkillViewModel.cs",
+              "RelativeToolTip": "ViewModels\\EditSkillViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T02:34:43.806Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 30,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-14T14:48:53.3Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Title": "Skill.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Models\\Skill.cs",
+              "RelativeDocumentMoniker": "Models\\Skill.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Models\\Skill.cs",
+              "RelativeToolTip": "Models\\Skill.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T20:25:14.187Z"
+              "WhenOpened": "2024-03-15T02:34:31.029Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 31,
-              "Title": "_DashboardLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Views\\Shared\\_DashboardLayout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_DashboardLayout.cshtml",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Views\\Shared\\_DashboardLayout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_DashboardLayout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAHAAAA",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Views\\Project\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Project\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Views\\Project\\Create.cshtml",
+              "RelativeToolTip": "Views\\Project\\Create.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAgwAUAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-14T14:25:05.683Z"
+              "WhenOpened": "2024-03-15T02:32:37.281Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-14T09:22:21.12Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAowBYAAAAyAAAA",
+              "DocumentIndex": 32,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProjectController.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "Controllers\\ProjectController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAkwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T20:41:56.919Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T11:58:34.173Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "Experience.cs",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Models\\Experience.cs",
-              "RelativeDocumentMoniker": "Models\\Experience.cs",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Models\\Experience.cs",
-              "RelativeToolTip": "Models\\Experience.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T09:22:52.032Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "Seed.cs",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Data\\Seed.cs",
-              "RelativeDocumentMoniker": "Data\\Seed.cs",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Data\\Seed.cs",
-              "RelativeToolTip": "Data\\Seed.cs",
-              "ViewState": "AQIAABsBAAAAAAAAAAAAAIgAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T22:02:45.707Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "20240314102756_InitialTable.cs",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Migrations\\20240314102756_InitialTable.cs",
-              "RelativeDocumentMoniker": "Migrations\\20240314102756_InitialTable.cs",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\Migrations\\20240314102756_InitialTable.cs",
-              "RelativeToolTip": "Migrations\\20240314102756_InitialTable.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T10:27:57.187Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "DashboardViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\ViewModels\\DashboardViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\DashboardViewModel.cs",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\ViewModels\\DashboardViewModel.cs",
-              "RelativeToolTip": "ViewModels\\DashboardViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T20:21:22.863Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\ViewModels\\LoginViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\LoginViewModel.cs",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-7-8-task-PreciousAimuan\\ViewModels\\LoginViewModel.cs",
-              "RelativeToolTip": "ViewModels\\LoginViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T20:28:14.303Z"
+              "WhenOpened": "2024-03-15T02:30:28.472Z",
+              "EditorCaption": ""
             }
           ]
         }

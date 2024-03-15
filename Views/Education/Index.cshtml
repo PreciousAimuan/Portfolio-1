@@ -1,0 +1,37 @@
+﻿@model IEnumerable<Education>
+
+@{
+    ViewData["Title"] = "Education";
+}
+
+<section class="portfolio" id="portfolio">
+    <div class="center-text">
+        <h2>My <span>Portfolio</span></h2>
+    </div>
+    <div class="top-btnn">
+        <a asp-controller="Education" asp-action="Create" class="h-btn1">Create</a>
+    </div>
+    @foreach (var items in Model)
+    {
+        <div class="Portfolio-content">
+            <div class="row">
+                <h5>@items.GraduationDate</h5>
+                <div class="main-row">
+                    <div class="row-text">
+                        <h5>@items.Degree</h5>
+                    </div>
+                    <div class="row-icon">
+                        <i class="ri-github-fill"></i>
+                    </div>
+                </div>
+                <h4>@items.School</h4>
+            </div>
+            <div class="top-btnn">
+                <a asp-controller="Education" asp-action="Edit" asp-route-Id="@items.Id" class="h-btn1">Edit</a>
+            </div>
+
+        </div>
+
+    }
+
+</section>

@@ -1,0 +1,18 @@
+﻿@using Microsoft.AspNetCore.Mvc.TagHelpers
+@model SQ20.Net_Wee7_8_Task.ViewModels.CreateExperienceViewModel
+
+
+<form method="post" asp-action="Create" enctype="multipart/form-data" class="editParent">
+    <input type="hidden" value="Id" id="Id" />
+    <div class="form-group editPage">
+        <label asp-for="Company">Title</label>
+        <input asp-for="Company" class="form-control" placeholder="Title">
+        <span asp-validation-for="Company" class="text-danger"></span>
+    </div>
+    <div class="form-group  editPage">
+        <label asp-for="Description">Description</label>
+        <input asp-for="Description" class="form-control" placeholder="Description">
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

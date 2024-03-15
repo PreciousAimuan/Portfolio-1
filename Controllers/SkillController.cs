@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using SQ20.Net_Wee7_8_Task.Interfaces;
 using SQ20.Net_Wee7_8_Task.Models;
+using SQ20.Net_Wee7_8_Task.Repository;
 using SQ20.Net_Wee7_8_Task.ViewModels;
 
 namespace SQ20.Net_Wee7_8_Task.Controllers
@@ -9,13 +10,12 @@ namespace SQ20.Net_Wee7_8_Task.Controllers
     {
         private readonly ISkillRepository _skillRepository;
         private readonly IPhotoService _photoService;
-        private readonly IHttpContextAccessor _httpContextAccessor;
-
-        public SkillController(ISkillRepository skillRepository, IPhotoService photoService, IHttpContextAccessor httpContextAccessor)
+        
+        public SkillController(ISkillRepository skillRepository, IPhotoService photoService)
         {
             _skillRepository = skillRepository;
             _photoService = photoService;
-            _httpContextAccessor = httpContextAccessor;
+           
         }
 
         [HttpGet]
@@ -25,19 +25,54 @@ namespace SQ20.Net_Wee7_8_Task.Controllers
             return View(skills);
         }
 
-        public async Task<IActionResult> Edit(Guid Id)
+        [HttpGet]
+        public IActionResult Create()
         {
-            var skills = await _skillRepository.GetByIdAsync(Id);
-            if (skills == null) return View("Error");
-            var skillVm = new EditSkillViewModel()
-            {
-                Name = skills.Name,
-                Description = skills.Description
+            return View();
+        }
 
-            };
+        [HttpPost]
+        public async Task<IActionResult> Create(CreateSkillViewModel skillVm)
+        {
+
+            if (ModelState.IsValid)
+            {
+               /* var result = await _photoService.AddPhotoAsync(projectVm.Image);*/
+
+                var skill = new Skill()
+                {
+                    Name = skillVm.Name,
+                    Description = skillVm.Description
+                    /* Image = result.Url.ToString(),*/
+                };
+
+                _skillRepository.Add(skill);
+                return RedirectToAction("Index");
+
+            }
+            else
+            {
+                ModelState.AddModelError("", "Photo Upload Failed");
+            }
 
             return View(skillVm);
         }
+
+        [HttpGet]
+        public async Task<IActionResult> Edit(Guid Id)
+        {
+            var skill = await _skillRepository.GetByIdAsync(Id);
+            if (skill == null) return View("Error");
+            var skillVM = new EditSkillViewModel()
+            {
+                Name = skill.Name,
+                Description = skill.Description
+
+            };
+
+            return View(skillVM);
+        }
+
 
         [HttpPost]
         public async Task<IActionResult> Edit(Guid Id, EditSkillViewModel skillVm)

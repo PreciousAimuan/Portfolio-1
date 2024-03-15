@@ -25,6 +25,39 @@ namespace SQ20.Net_Wee7_8_Task.Controllers
             return View(exps);
         }
 
+        [HttpGet]
+        public IActionResult Create()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Create(CreateExperienceViewModel expVm)
+        {
+
+            if (ModelState.IsValid)
+            {
+                /* var result = await _photoService.AddPhotoAsync(projectVm.Image);*/
+
+                var experience = new Experience()
+                {
+                    Company = expVm.Company,
+                    Description = expVm.Description
+                };
+
+                _expRepository.Add(experience);
+                return RedirectToAction("Index");
+
+            }
+            else
+            {
+                ModelState.AddModelError("", "Photo Upload Failed");
+            }
+
+            return View(expVm);
+        }
+
+        [HttpGet]
         public async Task<IActionResult> Edit(Guid Id)
         {
             var exp = await _expRepository.GetByIdAsync(Id);

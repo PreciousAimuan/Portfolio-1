@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using SQ20.Net_Wee7_8_Task.Interfaces;
 using SQ20.Net_Wee7_8_Task.Models;
+using SQ20.Net_Wee7_8_Task.Repository;
 using SQ20.Net_Wee7_8_Task.ViewModels;
 
 namespace SQ20.Net_Wee7_8_Task.Controllers
@@ -23,6 +24,39 @@ namespace SQ20.Net_Wee7_8_Task.Controllers
         {
             var educations = await _edRepository.GetAll();
             return View(educations);
+        }
+
+        [HttpGet]
+        public IActionResult Create()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Create(CreateEducationViewModel edVm)
+        {
+
+            if (ModelState.IsValid)
+            {
+                /* var result = await _photoService.AddPhotoAsync(projectVm.Image);*/
+
+                var education = new Education()
+                {
+                    Degree = edVm.Degree,
+                    School = edVm.School,
+                    GraduationDate = edVm.GraduationDate,
+                };
+
+                _edRepository.Add(education);
+                return RedirectToAction("Index");
+
+            }
+            else
+            {
+                ModelState.AddModelError("", "Photo Upload Failed");
+            }
+
+            return View(edVm);
         }
 
         public async Task<IActionResult> Edit(Guid Id)

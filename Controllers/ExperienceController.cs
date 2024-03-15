@@ -9,13 +9,12 @@ namespace SQ20.Net_Wee7_8_Task.Controllers
     {
         private readonly IExperienceRepository _expRepository;
         private readonly IPhotoService _photoService;
-        private readonly IHttpContextAccessor _httpContextAccessor;
 
-        public ExperienceController(IExperienceRepository expRepository, IPhotoService photoService, IHttpContextAccessor httpContextAccessor)
+        public ExperienceController(IExperienceRepository expRepository, IPhotoService photoService)
         {
             _expRepository = expRepository;
             _photoService = photoService;
-            _httpContextAccessor = httpContextAccessor;
+           
         }
 
         [HttpGet]

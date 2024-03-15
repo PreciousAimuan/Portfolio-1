@@ -1,7 +1,7 @@
-﻿using SQ20.Net_Wee7_8_Task.Data;
+﻿using Microsoft.EntityFrameworkCore;
+using SQ20.Net_Wee7_8_Task.Data;
 using SQ20.Net_Wee7_8_Task.Interfaces;
 using SQ20.Net_Wee7_8_Task.Models;
-using System.Data.Entity;
 
 namespace SQ20.Net_Wee7_8_Task.Repository
 {

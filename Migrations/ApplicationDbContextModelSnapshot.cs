@@ -342,10 +342,9 @@ namespace SQ20.Net_Wee7_8_Task.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("FieldOfStudy")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<DateTime>("GraduationDate")
+                    b.Property<DateTime?>("GraduationDate")
                         .HasColumnType("datetime2");
 
                     b.Property<string>("School")
@@ -374,17 +373,15 @@ namespace SQ20.Net_Wee7_8_Task.Migrations
                         .HasColumnType("datetime2");
 
                     b.Property<string>("Description")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<DateTime>("EndDate")
+                    b.Property<DateTime?>("EndDate")
                         .HasColumnType("datetime2");
 
                     b.Property<string>("Location")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<DateTime>("StartDate")
+                    b.Property<DateTime?>("StartDate")
                         .HasColumnType("datetime2");
 
                     b.Property<string>("Title")

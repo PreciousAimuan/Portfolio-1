@@ -2,8 +2,168 @@
 
 @{
     ViewData["Title"] = "Services";
+    Layout = "_DashboardLayout";
 }
-<!-- Services -->
+
+
+<div class="container  section-nav">
+    <!-- Navigation Section -->
+    <div class="navigation">
+        <ul>
+            <li>
+                <a href="#">
+                    <span class="icon">
+                        <ion-icon name="logo-apple"></ion-icon>
+                    </span>
+                    <span class="title">My Dashboard</span>
+                </a>
+            </li>
+            <li>
+                <a asp-controller="Service" asp-action="Index" >
+                    <span class="icon">
+                        <ion-icon name="home-outline"></ion-icon>
+                    </span>
+                    <span class="title">Services</span>
+                </a>
+            </li>
+            <li>
+                <a asp-controller="Project" asp-action="Index">
+                    <span class="icon">
+                        <ion-icon name="people-outline"></ion-icon>
+                    </span>
+                    <span class="title">Portfolio</span>
+                </a>
+            </li>
+            <li>
+                <a asp-controller="Abouts" asp-action="Index">
+                    <span class="icon">
+                        <ion-icon name="chatbubble-outline"></ion-icon>
+                    </span>
+                    <span class="title">About</span>
+                </a>
+            </li>
+            <li>
+                <a asp-controller="Skill" asp-action="Index">
+                    <span class="icon">
+                        <ion-icon name="help-outline"></ion-icon>
+                    </span>
+                    <span class="title">Skill</span>
+                </a>
+            </li>
+            <li>
+                <a asp-controller="Education" asp-action="Index">
+                    <span class="icon">
+                        <ion-icon name="settings-outline"></ion-icon>
+                    </span>
+                    <span class="title">Education</span>
+                </a>
+            </li>
+            <li>
+                <a asp-controller="Experience" asp-action="Index">
+                    <span class="icon">
+                        <ion-icon name="lock-closed-outline"></ion-icon>
+                    </span>
+                    <span class="title">Experience</span>
+                </a>
+            </li>
+            <li>
+                <a asp-controller="Home" asp-action="Index">
+                    <span class="icon">
+                        <ion-icon name="log-out-outline"></ion-icon>
+                    </span>
+                    <span class="title">Log Out</span>
+                </a>
+            </li>
+        </ul>
+    </div>
+    <!-- Main Section -->
+    
+
+
+
+
+
+
+    <div class="main">
+        <div class="topbar">
+            <div class="toggle">
+                <ion-icon name="menu-outline"></ion-icon>
+            </div>
+            <!-- Search -->
+           @*  <div class="search">
+                <label>
+                    <input type="text" name="search" placeholder="Search Here...">
+                    <ion-icon name="search-outline"></ion-icon>
+                </label>
+            </div> *@
+            <!-- User Account -->
+            <div class="user">
+                <img src="img/user/user.jpg" alt="user image">
+            </div>
+            <div class="accountMenu">
+                <h3>Noha Fawzy<br /><span>Entrepreneur</span></h3>
+                <ul>
+                    <li>
+                        <img src="img/user/user.png" alt="profile">
+                        <a href="#">My Profile</a>
+                    </li>
+                    <li>
+                        <img src="img/user/edit.png" alt="profile">
+                        <a href="#">Edit Profile</a>
+                    </li>
+                    <li>
+                        <img src="img/user/envelope.png" alt="profile">
+                        <a href="#">Inbox</a>
+                    </li>
+                    <li>
+                        <img src="img/user/settings.png" alt="profile">
+                        <a href="#">Settings</a>
+                    </li>
+                    <li>
+                        <img src="img/user/question.png" alt="profile">
+                        <a href="#">Help</a>
+                    </li>
+                    <li>
+                        <img src="img/user/log-out.png" alt="profile">
+                        <a asp-controller="Home" asp-action="Index">Log Out</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <!-- Cards -->
+        <!-- Charts -->
+        <section class="services">
+            <div class="center-text">
+                <h2>My <span>Services</span></h2>
+            </div>
+
+            <div class="top-btnn">
+                <a asp-controller="Service" asp-action="Create" class="h-btn1">Create</a>
+            </div>
+
+            @foreach (var items in Model)
+            {
+                <div class="services-content">
+                    <div class="box">
+                        <img src="@items.Image">
+                        <h3>@items.Title</h3>
+                        <p>
+                            @items.Description
+                        </p>
+                    </div>
+                    <div class="top-btnn">
+                        <a asp-controller="Service" asp-action="Edit" asp-route-Id="@items.Id" class="h-btn1">Edit</a>
+                    </div>
+                </div>
+            }
+        </section>
+
+
+    </div>
+
+</div>
+
+@* <!-- Services -->
 <section class="services" id="services">
     <div class="center-text">
         <h2>My <span>Services</span></h2>
@@ -29,3 +189,5 @@
         </div>
     }
 </section>
+ *@
+
